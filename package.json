@@ -1,0 +1,11 @@
+{
+  "name": "newserver",
+  "version": "1.0.0",
+  "description": "This is all about the serving multi page with url dependency:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Tripathi",
+  "license": "ISC"
+}
